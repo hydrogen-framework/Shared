@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Applications\Abstracts\" />
+    <Folder Include="Applications\Enums\" />
+    <Folder Include="Applications\Exceptions\" />
+    <Folder Include="Applications\Interfaces\" />
+    <Folder Include="Cores\Abstracts\" />
+    <Folder Include="Cores\Interfaces\" />
+    <Folder Include="Cores\Enums\" />
+    <Folder Include="Cores\Exceptions\" />
+    <Folder Include="Infrastructures\Abstracts\" />
+    <Folder Include="Infrastructures\Enums\" />
+    <Folder Include="Infrastructures\Exceptions\" />
+    <Folder Include="Infrastructures\Interfaces\" />
+    <Folder Include="Tools\" />
+  </ItemGroup>
+
+</Project>
